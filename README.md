@@ -27,6 +27,8 @@ Now I am aiming to become a great artist and train my 2D and 3D skills.
 <br>
 [![Premiere](https://img.shields.io/badge/Adobe_Premiere-7F7AC9?style=for-the-badge&logo=adobepremierepro&logoColor=white&labelColor=262076)]()
 <br>
+[![AfterEffects](https://img.shields.io/badge/Adobe_After_Effects-7F7AC9?style=for-the-badge&logo=adobeaftereffects&logoColor=white&labelColor=262076)]()
+<br>
 
 
 
