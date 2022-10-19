@@ -65,26 +65,26 @@ And more...
   </tr>
   <tr>
   <td>
-	<a href="https://pokemonmasters-game.com/">
+	<a href="https://www.ea.com/es-es/games/need-for-speed/need-for-speed-carbon">
   		<img src="https://github.com/Superpila92/Github_AlbertoJudez_2A/blob/main/nfs.jpg">
 	</a>
 	</td>
 	<td>
-	<a href="https://disneymirrorverse.com/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/mirrorverse.png">
+	<a href="https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Mystery_Dungeon:_Explorers_of_Time_and_Explorers_of_Darkness">
+  		<img src="https://github.com/Superpila92/Github_AlbertoJudez_2A/blob/main/Pokemon-mystery-dungeon-explorers-of-time.jpg">
 	</a>
 	</td>
 	</td>
     </tr>
     <tr>
     <td>
-	<a href="https://www.devourgame.com/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/devour.png">
+	<a href="https://pokemon.fandom.com/es/wiki/Pok%C3%A9mon_Platino">
+  		<img src="https://github.com/Superpila92/Github_AlbertoJudez_2A/blob/main/pokplat.jpg">
 	</a>
 	</td>
 	<td>
-	<a href="https://kineticgames.co.uk/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/phasmophobia.png">
+	<a href="https://www.teamcherry.com.au/">
+  		<img src="https://github.com/Superpila92/Github_AlbertoJudez_2A/blob/main/hollow.jpg">
 	</a>
   </tr>
 </table>
