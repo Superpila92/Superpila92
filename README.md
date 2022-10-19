@@ -3,7 +3,7 @@
 ---
 ### Currently I am studying at CEV Barcelona  [<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/favicon.png" width=48>](https://www.cevbarcelona.com/)
 
-[![Uploading image.png…](https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/koocachookies_github_profile.png)](https://github.com/danigomezcev])
+[[![Uploading image.png…](https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/koocachookies_github_profile.png)](https://github.com/danigomezcev])](https://drive.google.com/file/d/1vbtuUMUnIwqev4BTqUE0PPmtck9neAZc/view?usp=sharing)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
