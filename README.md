@@ -5,6 +5,7 @@
 
 [![Twitch Status](https://img.shields.io/twitch/status/Superpila92?style=social)](https://twitch.com/Superpila92)
 [![Instagram Follow](https://img.shields.io/twitter/follow/Cortapixas44?style=social)](https://twitter.com/Cortapixas44)
+![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
