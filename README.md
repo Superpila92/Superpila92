@@ -34,11 +34,11 @@ Now I am aiming to become a great artist and train my 2D and 3D skills.
 [![Maya](https://img.shields.io/badge/Maya-999999?style=for-the-badge&logo=mayay&logoColor=white&labelColor=101010)]()
 <br>
 </br>
-Y alguna más...
+And more...
 
-## Encuéntrame en:
+## You can find me here:
 
-[![YouTube](https://img.shields.io/badge/YouTube-Mouredev_by_Brais_Moure-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/mouredevapps)
+[![YouTube](https://img.shields.io/badge/YouTube-Superpila92-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/Superpila92)
 [![Twitch](https://img.shields.io/badge/Twitch-mouredev-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
 [![Discord](https://img.shields.io/badge/Discord-mouredev-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord)
 </br>
