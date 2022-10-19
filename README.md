@@ -15,6 +15,8 @@ Now I am aiming to become a great artist and train my 2D and 3D skills.
 
 ## These are some of the Software that I have experience with:
 
+[![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-7F7AC9?style=for-the-badge&logo=adobephotoshoppro&logoColor=white&labelColor=262076)]()
+<br>
 [![Unreal](https://img.shields.io/badge/Unreal-999999?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)]()
 <br>
 [![Audition](https://img.shields.io/badge/Adobe_Audition-7F7AC9?style=for-the-badge&logo=adobeaudition&logoColor=white&labelColor=262076)]()
@@ -23,8 +25,7 @@ Now I am aiming to become a great artist and train my 2D and 3D skills.
 <br>
 [![Premiere](https://img.shields.io/badge/Adobe_Premiere-7F7AC9?style=for-the-badge&logo=adobepremierepro&logoColor=white&labelColor=262076)]()
 <br>
-[![OBS](https://img.shields.io/badge/OBS-999999?style=for-the-badge&logo=obsstudio&logoColor=white&labelColor=101010)]()
-<br>
+
 
 
 
