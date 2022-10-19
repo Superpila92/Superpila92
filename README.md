@@ -29,7 +29,7 @@ Now I am aiming to become a great artist and train my 2D and 3D skills.
 <br>
 [![AfterEffects](https://img.shields.io/badge/Adobe_After_Effects-7F7AC9?style=for-the-badge&logo=adobeaftereffects&logoColor=white&labelColor=262076)]()
 <br>
-[![3DMAX](https://img.shields.io/badge/Autodesk_3DMAX-7F7AC9?style=for-the-badge&logo=autodesk3dmax&logoColor=white&labelColor=262076)]()
+[![3Dmax](https://img.shields.io/badge/Autodesk_3DMAX-7F7AC9?style=for-the-badge&logo=autodesk3dmax&logoColor=white&labelColor=262076)]()
 <br>
 
 </br>
