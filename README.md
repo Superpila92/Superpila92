@@ -1,4 +1,4 @@
-# Hi There! My name is Alberto Judez 👋   [<img src="https://github.com/Superpila92/Superpila92/blob/main/carapolla.jpg" width=48>](https://www.cevbarcelona.com/)
+# Hi There! My name is Alberto Judez [<img src="https://github.com/Superpila92/Superpila92/blob/main/carapolla.jpg" width=48>](https://www.cevbarcelona.com/) 👋 
 ### And I consider myself a Freelance 2D/3D Artist 🗿
 ---
 ### Currently I am studying at CEV Barcelona  [<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/favicon.png" width=48>](https://www.cevbarcelona.com/)
