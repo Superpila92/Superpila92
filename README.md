@@ -46,7 +46,7 @@ And more...
 	</a>
 	</td>
   <td>
-	<a href="https://www.labyrinthinegame.com/">
+	<a href="https://darksouls.fandom.com/es/wiki/Wiki_Dark_Souls">
   		<img src="https://github.com/Superpila92/Github_AlbertoJudez_2A/blob/main/darksouls.jpg">
 	</a>
 	</td>
