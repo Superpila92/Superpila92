@@ -48,4 +48,45 @@ And more...
 </br>
 [![Email](https://img.shields.io/badge/albertojudezperez@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:albertojudezperez@gmail.com)
 
+## These are some of my Favourite Videogames:
+
+<table style="width:100%">
+  <tr>
+  <td>
+	<a href="https://cdprojektred.com/">
+  		<img src="https://github.com/Superpila92/Github_AlbertoJudez_2A/blob/main/Witcher%203.jpg">
+	</a>
+	</td>
+  <td>
+	<a href="https://www.labyrinthinegame.com/">
+  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/labyrinthine.png">
+	</a>
+	</td>
+  </tr>
+  <tr>
+  <td>
+	<a href="https://pokemonmasters-game.com/">
+  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/pokemonmasters.png">
+	</a>
+	</td>
+	<td>
+	<a href="https://disneymirrorverse.com/">
+  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/mirrorverse.png">
+	</a>
+	</td>
+	</td>
+    </tr>
+    <tr>
+    <td>
+	<a href="https://www.devourgame.com/">
+  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/devour.png">
+	</a>
+	</td>
+	<td>
+	<a href="https://kineticgames.co.uk/">
+  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/phasmophobia.png">
+	</a>
+  </tr>
+</table>
+
 
