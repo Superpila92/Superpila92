@@ -6,25 +6,29 @@
 [![Twitch Status](https://img.shields.io/twitch/status/Superpila92?style=social)](https://twitch.com/Superpila92)
 [![Instagram Follow](https://img.shields.io/twitter/follow/Cortapixas44?style=social)](https://twitter.com/Cortapixas44)
 ![GitHub Followers](https://img.shields.io/github/followers/Superpila92?style=social)
-[![YouTube Channel Subscribers]([https://img.shields.io/youtube/channel/UCbormbSIFkjLFpqXghftzhQ?style=social)](https://youtube.com/Superpila92?sub_confirmation=1](https://www.youtube.com/channel/UCbormbSIFkjLFpqXghftzhQ))
+![GitHub Followers](https://img.shields.io/github/stars/Superpila92?style=social)
 
-[![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
-[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://mouredev.com/discord)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev)
-![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
+I am currently studying 3D Animation & Videogames at CEV Barcelona.
 
-Soy Estudiante de Grado Superior de Animaciones 3D y Videojuegos en CEV Barcelona.
+Since I was a young lad I have always loved videogames, Then it became my passion.
+Now I am aiming to become a great artist and train my 2D and 3D skills.
 
-Desde muy pequeño siempre me han gustado los videojuegos y de esa pasión nació mi interés por la industria que esta detrás de estas obras de arte.
- 
-No me considero experto en 
+## These are some of the Software that I have experience with:
 
-En 2018 regreso a mi ciudad natal en Galicia (España), y empiezo a crear contenido de programación y compartir mi experiencia como desarrollador en plataformas como YouTube, Twitch o Udemy. Me gustaría devolver de alguna manera todo el conocimiento que la comunidad ha compartido conmigo de forma gratuita a lo largo de los años.
+[![Unreal](https://img.shields.io/badge/Unreal-999999?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=101010)]()
+<br>
+[![Audition](https://img.shields.io/badge/Adobe_Audition-7F7AC9?style=for-the-badge&logo=adobeaudition&logoColor=white&labelColor=262076)]()
+<br>
+[![Github](https://img.shields.io/badge/Github_Desktop-EA84E8?style=for-the-badge&logo=github&logoColor=white&labelColor=871585)]()
+<br>
+[![Premiere](https://img.shields.io/badge/Adobe_Premiere-7F7AC9?style=for-the-badge&logo=adobepremierepro&logoColor=white&labelColor=262076)]()
+<br>
+[![OBS](https://img.shields.io/badge/OBS-999999?style=for-the-badge&logo=obsstudio&logoColor=white&labelColor=101010)]()
+<br>
 
-> 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) (Most Valuable Professional) 2023 in Developer Technologies & Google Developer Groups Lead
 
-## Tecnologías:
+
+
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
