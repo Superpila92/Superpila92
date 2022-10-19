@@ -1,5 +1,5 @@
 # Hi There! My name is Alberto Judez 👋
-### And I consider myself a Freelance 2D/3D Artist.
+### And I consider myself a Freelance 2D/3D Artist 🗿
 ---
 ### Currently I am studying at CEV Barcelona  [<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/favicon.png" width=48>](https://www.cevbarcelona.com/)
 
