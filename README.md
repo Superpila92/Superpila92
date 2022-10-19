@@ -38,7 +38,7 @@ And more...
 
 ## You can find me here:
 
-[![YouTube](https://img.shields.io/badge/YouTube-Superpila92-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/Superpila92)
+[![YouTube](https://img.shields.io/badge/YouTube-Superpila92-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)]([https://youtube.com/Superpila92](https://www.youtube.com/channel/UCbormbSIFkjLFpqXghftzhQ))
 [![Twitch](https://img.shields.io/badge/Twitch-mouredev-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
 [![Discord](https://img.shields.io/badge/Discord-mouredev-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord)
 </br>
