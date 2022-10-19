@@ -44,7 +44,7 @@ And more...
 </br>
 [![Instagram](https://img.shields.io/badge/Instagram-@Cortapixas44-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/Cortapixas44)
 </br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-alberto-judez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/albertojudez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alberto_Judez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/albertojudez)
 
 ## Mis guías de estudio iOS y Android:
 [![Apple](https://img.shields.io/github/stars/mouredev/Apple-Developer-Roadmap?label=Apple%20Developer%20Roadmap&style=social)](https://github.com/mouredev/Apple-Developer-Roadmap)
