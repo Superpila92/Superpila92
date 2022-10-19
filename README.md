@@ -36,18 +36,6 @@ Now I am aiming to become a great artist and train my 2D and 3D skills.
 </br>
 And more...
 
-## You can find me here:
-
-[![YouTube](https://img.shields.io/badge/YouTube-Superpila92-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)]([[https://youtube.com/Superpila92](https://www.youtube.com/channel/UCbormbSIFkjLFpqXghftzhQ)](https://www.youtube.com/channel/UCbormbSIFkjLFpqXghftzhQ))
-[![Twitch](https://img.shields.io/badge/Twitch-Superpila92-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/Superpila92)
-[![Discord](https://img.shields.io/badge/Discord-Superpila92-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://Superpila92.com/discord)
-</br>
-[![Instagram](https://img.shields.io/badge/Instagram-@Cortapixas44-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/Cortapixas44)
-</br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alberto_Judez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]([https://www.linkedin.com/in/albertojudez](https://es.linkedin.com/in/alberto-judez-08467a199/es?trk=people-guest_people_search-card))
-</br>
-[![Email](https://img.shields.io/badge/albertojudezperez@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:albertojudezperez@gmail.com)
-
 ## These are some of my Favourite Videogames:
 
 <table style="width:100%">
@@ -89,4 +77,15 @@ And more...
   </tr>
 </table>
 
+## You can find me here:
+
+[![YouTube](https://img.shields.io/badge/YouTube-Superpila92-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)]([[https://youtube.com/Superpila92](https://www.youtube.com/channel/UCbormbSIFkjLFpqXghftzhQ)](https://www.youtube.com/channel/UCbormbSIFkjLFpqXghftzhQ))
+[![Twitch](https://img.shields.io/badge/Twitch-Superpila92-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/Superpila92)
+[![Discord](https://img.shields.io/badge/Discord-Superpila92-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://Superpila92.com/discord)
+</br>
+[![Instagram](https://img.shields.io/badge/Instagram-@Cortapixas44-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/Cortapixas44)
+</br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alberto_Judez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]([https://www.linkedin.com/in/albertojudez](https://es.linkedin.com/in/alberto-judez-08467a199/es?trk=people-guest_people_search-card))
+</br>
+[![Email](https://img.shields.io/badge/albertojudezperez@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:albertojudezperez@gmail.com)
 
