@@ -53,13 +53,13 @@ And more...
 <table style="width:100%">
   <tr>
   <td>
-	<a href="https://cdprojektred.com/">
+	<a href="https://en.bandainamcoent.eu/dark-souls/dark-souls">
   		<img src="https://github.com/Superpila92/Github_AlbertoJudez_2A/blob/main/Witcher%203.jpg">
 	</a>
 	</td>
   <td>
 	<a href="https://www.labyrinthinegame.com/">
-  		<img src="https://raw.githubusercontent.com/danigomezcev/danigomezcev/main/games/labyrinthine.png">
+  		<img src="https://github.com/Superpila92/Github_AlbertoJudez_2A/blob/main/darksouls.jpg">
 	</a>
 	</td>
   </tr>
