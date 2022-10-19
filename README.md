@@ -1,7 +1,9 @@
-# Hola, me llamo Alberto Judez! 👋
-### Freelance Artist y Estudiante en CEV Barcelona
+# Hi There! My name is Alberto Judez 👋
+### And I consider myself a Freelance 2D/3D Artist.
+---
+### Currently I am studying at CEV Barcelona  [<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/favicon.png" width=48>](https://www.cevbarcelona.com/)
 
-![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
+![https://github.com/Superpila92](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
@@ -10,10 +12,11 @@
 ![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
 
-Soy ingeniero de software profesional desde hace más de doce años.
+Soy Estudiante de Grado Superior de Animaciones 3D y Videojuegos en CEV Barcelona.
 
-En 2014 dejé mi trabajo en una multinacional y creé [**MoureDev**](https://mouredev.com), el reflejo de mi sueño de crecer como profesional dentro de la industria del desarrollo de software.
-Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones móviles, colaborando con empresas de diferentes partes del mundo, creando más de 100 Apps y fundando mi propia startup.
+Desde muy pequeño siempre me han gustado los videojuegos y de esa pasión nació mi interés por la industria que esta detrás de estas obras de arte.
+ 
+No me considero experto en 
 
 En 2018 regreso a mi ciudad natal en Galicia (España), y empiezo a crear contenido de programación y compartir mi experiencia como desarrollador en plataformas como YouTube, Twitch o Udemy. Me gustaría devolver de alguna manera todo el conocimiento que la comunidad ha compartido conmigo de forma gratuita a lo largo de los años.
 
