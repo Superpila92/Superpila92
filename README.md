@@ -1,5 +1,5 @@
-# ![https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.linkedin.com%2Fin%2Falberto-judez-08467a199&psig=AOvVaw22s3mmL5zS3UYq6WYQC8oC&ust=1666275255091000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLCO2Je97PoCFQAAAAAdAAAAABAD](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre el Brais Moure 👋
-### Freelance full-stack iOS & Android engineer
+# Hola, me llamo Alberto Judez! 👋
+### Freelance Artist y Estudiante en CEV Barcelona
 
 ![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
 
