@@ -1,2 +1,167 @@
-# !(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw4KDhAOEBAKDhAJDQoNDQoJDQ8ICQcKFREWFhUdHx8kHCggGBoxGxMTITEtMSkrOi4uFx8zODMsNygtLisBCgoKDg0OFhAQFysdFxorKy0rKystLSstLSstLSstLS0rNy43Ky03Mi0rKy03LSsrNy03KzctKy0rKysrKysrK//AABEIAJ0AnQMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAAFAAEDBAYHAv/EADkQAAEDAgQEBAMFBwUAAAAAAAEAAgMEEQUSITEGE0FRImFxgTKRoQcUQlKxFTNTYnPB0SM0gqKy/8QAGQEAAgMBAAAAAAAAAAAAAAAAAAUCAwQB/8QAJBEAAgICAgICAwEBAAAAAAAAAAECEQMhEjEEQSJREzJxYSP/2gAMAwEAAhEDEQA/AO4pJJIASSSSAEmKdeSVxugPEp2UTpbEDv8AomqJQOuyET4i0TtbceIaeqWZ8nybRfDG2XcQnIFm79e4CFtOVpd6q43xkofiBdG1wsskk27ZrxpJUX8Lccpkdsb29FcpKnmk9h80DrMQEVMACNcrR5XXrAsSYGG5G+5OpAXYzrRCeO03WzSEBC6uE1Dst/CN7dVBVY7G2+o0BT4fVmWPONC++U9x3U5TjJ0iEMcoKyGV8dARb4uzdSj2H1HPja+1s3RAZ8PzAuNy7ck/iRjCfDGGncey0eK2p16OZ0nG/YQSSCSZmQSZOmQA6SSSAEkkkgDyTZA8XxxlOCbjQOv7IliknLicdrD0XEuNsbfI7lxu6kEDVxCw+Tkd8UX4cfLYTxj7QrPLQdDpcfhKCzcWPztJOlwWu6FqE4TwhNWEyEEA/muSStDBwG8ixII7HosjxqjdGH0a/BuMoJI2uc5oItmsblT43xFTyRExSRuLgdL5TeyxrOAXxuuxzh6IhTcCvLgS697d9FDi+kScEtsB1uNT2Ng4tJ9g5DI+LpIAWuDhqe+y6pBwbEyPKRckC57FB677O4J3k6gfVTWFewU0/ZgX8X80211sL+S0GF8fBrmxA+FgDR2sFPW/Zw1h8G3mNVmcZ4MlpPGwHw67FReOC60SqzreD8Qtq7agk9AtNBK1oubeq4fwNXmKTK+4LdAuxUcokYOug1Rim4yoozY1QcY7ML906ip/hClTmDuKYufY6ZOmUjg6SSSAEmKdMVxsAVj5vE5t9wfCPicVzHCuHY5qx78ps03Oc59VuuJsREbXAEZradwhWDDKLnd+pPdKMkuU2xjgjUQzTUjI22AAA9lYZEOwUDJF7Y8qUWicky8ynaeytRwAKrDIrUb1fGjJkcvslLQoXxBe3yWVd8ui7JorinZDIwKjV0rJQQQNVZkeq7pfNUyo2Y00YLH8CbBKHMDRcg3AsStVgsMjGsObM0tGnVqjxyISsv1Zr7KLBsRAAZfbTzCySpSNE03E3NMLNClCiptWD0CmTzH+qE8uxJk6ZTODpJJIAZV8Rn5EMkn8KN7vkFYVPGGZ6aZv5oZR/wBSoy6Z1dnH/wBtvxCdpJIOZ2m4IutrSWyhc4wSlPPBsbMcb/NdAp5bWSdxpjbC7QUj1VqJqr01tzp6qd1ZHHu5g9SBdWQj7OZHsuxtVlmioRVbDYgg/VXGTByvRknFkjm3UMjFK6YNVaSqb3CGQjGVkEoVGUK6Zmu6hVZyDtb2VGSJsx2VXtDgQeoKwlaJcPmuCS10ot1sCVuHvt1QTGIBM6Ntrl0sf1cLqqCTey7LajZ0iiN42Huxh+inUcQytA7AD6L2nMVSErHTJ0ykA6SSSAGUFd+6k/pyf+SpysPinFBjqp6R/hsP9Jw2e0j9VVlyKCLcOGWRtR9ALC6MC7gO/wA7qxWVbaRhkdc5dmjUuKsUAAj9SUG4izOadDbt0Sxvexlji0qM9jXFFdVEMhBjB0Bb0QGrw7EX3dJO87H4ycqnfWyNlDGsc43sI2+AE+Z7KnU8S1hkNN92hBLg22V7n6m26tgpNaB0nsM8MYrXUr8jpXPadPGc2VdYwjEHSRgnfT3XHBh1SyS2V7XAB2l3xn36Lq/BsLpYG5tDbXuCoJyssko8LZZxnFjAwnrY6d1y3FOJcSqHlrDkFza29lt+NonhuVly55sPJc7fz4S93LkcKcFzrAsDrb69VzlLlR3hHjZNFFjD/F94fb8t7CyOYTX19IbyPdI2+sZsbhBMK42jqCIjTSA2JMkTy5zAN9EaoKwVJORwezobZXsPn5rs+S/YjFRfRsY5ea0OF/EAbdQvVPHeogB/it/W68Yd8AB6K1HZlRC47NcXH2BUMf7HcyfCjbhOhVNjkMs/IDhzC0uyXBdlRVN4yUloTThKDqSHSSTKREdJJJADFcw4/wAIf97+8C9ntFiOhC6eg/FEDZKc3F8pB7kBUeRDlD+GrxMrx5P7oxWDyl8Ud97a+ZujP3FkrbEA390NoIOTZo2BNvQlH4XCyX8bezfyq6AcnDcebMGN+QBUowRt78tmb8+UF1vVaNjQU8j2sGqvUEkV/ld1QBloWtbYgf5RPh6MRggeeyo1L3Susy1r6noiuEsygqMF8ieZ/wDOmD8TgbI+5Gx07hRHDg9p0a4OFiCASQrOIgtJIF/JS4bO1410P1BQkuQW1jTRnncNwMJcyCNpeLFzGBhIViiwCKLXI0HuBYrWGMW6f5UEgClLHfsqjn+kBnwCPZCcWrOTbL8RDrdwj9WN1mcQo3TVDX/hjYQfMkrM4mzE1Jqx/s5oZH1stQ+5IaRmPe66cEH4aw4UsP8ANL4j3ARgJl48OMKFfnZllzNrpaHTJ0yvMg6SSSAGVTFSBC8kXAadN7q2me0OFjsb3B1BCjJWqOxdNM586UakdPopYK8DdEuIMLipm5425eY45hclt/7LKSgjZLcicHQ0wyU9mmGJNA3QuuxbmHIzU/MBCgyR+guFNTOipyAS3MfzbuKq/I3o2RhFbIK/iduGkB9rk636hF6DjGB7A4OHjHfZZnibBWV2txfptqsqcJlgORuaw2tey7yaWjsoxl2jo8nGcD5DHmaD3uNVOyvsRI3ZxGvRYHD+GHyPa946gncErcGFjIwy4GUAea5yfZJRilVGjpcSzNGu6lfUhyyNPM+I9SEQjrLqf5X0UvBHtBOaS90qSFsrmg9XD31VOF5kNu5A+aO4Xgz4X53uaRe7WtvcKeOLmzPlyKCqw4xtgB2svSYJ0zQpEmTpkAOkkkgBJJJIAE8TRZ6Z5G8dnewXP2nMumYlbkyX25b/ANFyeSflvI6XS/y4/Kzd4kq0GYBoVSqcBhrHZ3mQOHwujcWFienqM+gKvwXWL2NIsz1Xws/cVNU4dnPALVFFgc7RYVEn/MB7gtd91c9eW4XJ3Csps7zS7MzFgtcD4Kp1tP3jAQrb8AqH2dJUuLmdIm5GvWkZSlm6eQaWUZI5ysGwU12AHcaX72XnKGlTyENuqkk4UUSk9BnBIubK0djc+gW0AWU4PALnnrYe2q1aaeNGoWI/Klcx0kklpM4kkkkAJJJIoASShmqGRi7nNHqQhlTxBCzRuaRx0DWC2YoegW9F3Fv9vL/Tf+i4viE2Vx9/ZdGxXE5nRvDiwB4IyRi9gfNc1xNlyUv8iabtG/BjcVsajxAxuudlpqDE2Osb66LAyPLDbp+imp6pzDoVm0a4to6pHVtte69sxNl7XC57BjDwLEp/2kb3RyaLPi+zpBq2uHRD62ra3qFkW42+1tVXnr3ydVGUrOKl0GKzEW3sCqjam5QfP7kq3RtLjdRTOSbZ0Xgg35h8mf3WtCwfDVY6DNlDSSBo8locQjNPxS3PypoKiJ2pDtJIpQOxTTxprjQr8iDUr9GkSVemrI5h4XNPls4KwFpM4kydMgCrU1zItzc9hqgtbjD3A5fAO+7iFSrpiCfIlCZqhx3VqiilyZLV1twTc37kkkhU8Eqs9SQfyOy+RUUxt2QtszoZ2PB1D26bAgqvLG4sswyqaZpcbflaVlJ2h4WsxpmaO/cX9NFkhobJM+h3/oJqqQlD3RlhWke26o1MIVMixIowm6muvOSy9N1UbO8RwSvepXpjVajjC5dneJHTwZkXposoUdPGFbBsF2KBhPCHeK3krmNTctjO9z8lUwdvVVOIpnOmDb2DBaw6rZ4u5oyeW6xhKjqCQNXA62cw5XNROnxeqgtfJMz+fwStHrsVnIHltrHZEKeU9dfVOaTEt0ayhxuKewIdG49JLWcfVFAb9vmsQ11zsPbRX6WtljbYOJB6HXKuOBJTP//Z) Hola, me llamo Alberto Judez! 👋
-### Soy Estudiante en CEV
+# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre el Brais Moure 👋
+### Freelance full-stack iOS & Android engineer
+
+![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
+
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
+[![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
+[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://mouredev.com/discord)
+[![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev)
+![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
+![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
+
+Soy ingeniero de software profesional desde hace más de doce años.
+
+En 2014 dejé mi trabajo en una multinacional y creé [**MoureDev**](https://mouredev.com), el reflejo de mi sueño de crecer como profesional dentro de la industria del desarrollo de software.
+Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones móviles, colaborando con empresas de diferentes partes del mundo, creando más de 100 Apps y fundando mi propia startup.
+
+En 2018 regreso a mi ciudad natal en Galicia (España), y empiezo a crear contenido de programación y compartir mi experiencia como desarrollador en plataformas como YouTube, Twitch o Udemy. Me gustaría devolver de alguna manera todo el conocimiento que la comunidad ha compartido conmigo de forma gratuita a lo largo de los años.
+
+> 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) (Most Valuable Professional) 2023 in Developer Technologies & Google Developer Groups Lead
+
+## Tecnologías:
+[![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
+[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
+[![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
+</br>
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
+[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
+</br>
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
+[![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
+</br>
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
+[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+</br>
+Y alguna más...
+
+## Encuéntrame en:
+
+[![YouTube](https://img.shields.io/badge/YouTube-Mouredev_by_Brais_Moure-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/mouredevapps)
+[![Twitch](https://img.shields.io/badge/Twitch-mouredev-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
+[![Discord](https://img.shields.io/badge/Discord-mouredev-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord)
+</br>
+[![Twitter](https://img.shields.io/badge/Twitter-@mouredev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/mouredev)
+[![Instagram](https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/mouredev)
+[![TikTok](https://img.shields.io/badge/TikTok-@mouredev-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@mouredev)
+[![Facebook](https://img.shields.io/badge/Facebook-@mouredev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/mouredev)
+</br>
+[![Link](https://img.shields.io/badge/Link_Site-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://mouredev.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
+[![Udemy](https://img.shields.io/badge/Udemy-Brais_Moure-EC5252?style=for-the-badge&logo=udemy&logoColor=white&labelColor=101010)](https://www.udemy.com/course/swift_ios/?referralCode=04756B8423CBE177B930)
+[![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mouredev.com)
+
+## Mis guías de estudio iOS y Android:
+[![Apple](https://img.shields.io/github/stars/mouredev/Apple-Developer-Roadmap?label=Apple%20Developer%20Roadmap&style=social)](https://github.com/mouredev/Apple-Developer-Roadmap)
+[![Android](https://img.shields.io/github/stars/mouredev/Android-Developer-Roadmap?label=Android%20Developer%20Roadmap&style=social)](https://github.com/mouredev/Android-Developer-Roadmap)
+
+## Los retos de programación de la comunidad:
+
+![https://retosdeprogramacion.com](./mouredev_retos_programacion.png)
+
+### Retos Semanales y Mensuales para mejorar nuestra lógica de programación y portfolio de aplicaciones [retosdeprogramacion.com](https://retosdeprogramacion.com)
+
+Índice en GitHub
+
+[![GitHub Code Challenges](https://img.shields.io/github/stars/mouredev/Code-Challenges?label=Retos%20de%20programacion&style=social)](https://github.com/mouredev/Code-Challenges)
+
+### Semanales
+
+Cada lunes un nuevo reto para mejorar nuestra lógica de programación.
+
+[![GitHub Weekly Kotlin](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Kotlin?label=Retos%20Semanales&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin)
+[![GitHub Weekly Swift](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Swift?label=Retos%20Semanales%20en%20Swift&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Swift)
+
+### Mensuales
+
+Cada mes una nueva aplicación para añadir a nuestro portfolio.
+
+[![GitHub Monthly App](https://img.shields.io/github/stars/mouredev/Monthly-App-Challenge-2022?label=Retos%20Mensuales&style=social)](https://github.com/mouredev/Monthly-App-Challenge-2022)
+
+[![Twitch](https://img.shields.io/badge/Twitch-Challenge_live_coding-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
+[![Discord](https://img.shields.io/badge/Discord-Challenge_chat_channel-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord)
+
+## ⏳Twitimer: El proyecto de la comunidad:
+![https://twitimer.com](https://raw.githubusercontent.com/mouredev/mouredev/master/twitimer_banner.png)
+
+[![GitHub Followers](https://img.shields.io/github/stars/mouredev/Twitimer-iOS?label=Proyecto%20iOS&style=social)](https://github.com/mouredev/Twitimer-iOS)
+[![GitHub Followers](https://img.shields.io/github/stars/mouredev/Twitimer-Android?label=Proyecto%20Android%20&style=social)](https://github.com/mouredev/Twitimer-Android)
+
+Twitimer es una aplicación gratuita **[iOS](https://apps.apple.com/us/app/twitimer-twitch-guide/id1564592351)** y **[Android](https://play.google.com/store/apps/details?id=com.mouredev.twitimer)** que ha sido desarrollada para ayudar a los usuarios de Twitch, pero sobre todo pensando en generar contenido educativo para toda la comunidad de programadores interesados en el mundo del desarrollo de apps para dispositivos móviles. Tienes todo el código público para su descarga.
+
+[![Web](https://img.shields.io/badge/Twitimer.com-Web_oficial-3A1C66?style=for-the-badge&logoColor=white&labelColor=101010)](https://twitimer.com)
+
+## Algunos vídeos en YouTube:
+
+<table style="width:100%">
+  <tr>
+    <td>
+	<a href="https://youtu.be/MyzZnIR5gC4">
+  		<img src="http://i3.ytimg.com/vi/MyzZnIR5gC4/maxresdefault.jpg">
+	</a>
+	</td>
+    <td>
+	<a href="https://youtu.be/P6ko_I5GHbs">
+  		<img src="http://i3.ytimg.com/vi/P6ko_I5GHbs/maxresdefault.jpg">
+	</a>
+	</td>
+    <td>
+	<a href="https://youtu.be/hGIzLGgf3Bo">
+  		<img src="http://i3.ytimg.com/vi/hGIzLGgf3Bo/maxresdefault.jpg">
+	</a>
+	</td>
+  </tr>
+  <tr>
+    <td>
+	<a href="https://youtu.be/BQaxPwZWboA">
+  		<img src="http://i3.ytimg.com/vi/BQaxPwZWboA/maxresdefault.jpg">
+	</a>
+	</td>
+	<td>
+	<a href="https://youtu.be/ebQphhLpJG0">
+  		<img src="http://i3.ytimg.com/vi/ebQphhLpJG0/maxresdefault.jpg">
+	</a>
+	</td>
+   <td>
+	<a href="https://youtu.be/X5fjEEmXR2s">
+  		<img src="http://i3.ytimg.com/vi/X5fjEEmXR2s/maxresdefault.jpg">
+	</a>
+	</td>
+  </tr>
+    <tr>
+    <td>
+	<a href="https://youtu.be/1IpkZhkPC_I">
+  		<img src="http://i3.ytimg.com/vi/1IpkZhkPC_I/maxresdefault.jpg">
+	</a>
+	</td>
+	<td>
+	<a href="https://youtu.be/HH7U3tA0S8M">
+  		<img src="http://i3.ytimg.com/vi/HH7U3tA0S8M/maxresdefault.jpg">
+	</a>
+	</td>
+   <td>
+	<a href="https://youtu.be/vhrus08jp6s">
+  		<img src="http://i3.ytimg.com/vi/vhrus08jp6s/maxresdefault.jpg">
+	</a>
+	</td>
+  </tr>
+</table>
+</table>
+
+#### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
+
+[![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
+
+
+## Contacto y apoyo:
+
+[![MyPublicInbox](https://img.shields.io/badge/MyPublicInbox-MENSAJE+CAFÉ_(RESPUESTA_RÁPIDA)_Gracias!-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](https://mypublicinbox.com/mouredev)
+</br>
+[![Email](https://img.shields.io/badge/braismoure@mouredev.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
+</br>
+[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-apoya_mi_trabajo-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/mouredev)
