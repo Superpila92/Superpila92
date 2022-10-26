@@ -4,7 +4,7 @@
 ### Currently I am studying at CEV Barcelona  [<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/favicon.png" width=48>](https://www.cevbarcelona.com/)
 
 [![Twitch Status](https://img.shields.io/twitch/status/Superpila92?style=social)](https://twitch.com/Superpila92)
-[![Instagram Follow](https://img.shields.io/twitter/follow/Cortapixas44?style=social)](https://twitter.com/Cortapixas44)
+[![Instagram Follow](https://img.shields.io/badge/Instagram-FFFFFF?style=flat&logo=instagram&labelcolor=E4405F)](https://instagram.com/Cortapixas44)
 ![GitHub Followers](https://img.shields.io/github/followers/Superpila92?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/Superpila92?style=social)
 
@@ -29,7 +29,7 @@ Now I am aiming to become a great artist and train my 2D and 3D skills.
 <br>
 [![AfterEffects](https://img.shields.io/badge/Adobe_After_Effects-7F7AC9?style=for-the-badge&logo=adobeaftereffects&logoColor=white&labelColor=262076)]()
 <br>
-[![3Dmax](https://img.shields.io/badge/3Dmax-999999?style=for-the-badge&logo=3dmaxy&logoColor=white&labelColor=101010)]()
+[![3Dmax](https://img.shields.io/badge/3Dmax-999999?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=101010)]()
 <br>
 [![Maya](https://img.shields.io/badge/Maya-999999?style=for-the-badge&logo=mayay&logoColor=white&labelColor=101010)]()
 <br>
