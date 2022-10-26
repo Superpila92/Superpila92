@@ -31,7 +31,7 @@ Now I am aiming to become a great artist and train my 2D and 3D skills.
 <br>
 [![3Dmax](https://img.shields.io/badge/3Dmax-999999?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=101010)]()
 <br>
-[![Maya](https://img.shields.io/badge/Maya-999999?style=for-the-badge&logo=autodesk&logoColor=white&labelColor=101010)]()
+[![Maya](https://img.shields.io/badge/Maya-999999?style=for-the-badge&logo=Monzo&logoColor=white&labelColor=101010)]()
 <br>
 </br>
 And more...
